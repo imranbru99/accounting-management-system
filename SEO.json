@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "accounting-management-system",
+  "description": "Accounting Management System — Finance Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Comprehensive ledger with receivables, payables, VAT/Mushak hooks, and financial statements. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "finance",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/accounting-management-system"
+}
